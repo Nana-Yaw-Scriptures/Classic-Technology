@@ -1,1 +1,1 @@
-# My-scripts
+# goolynews.com
